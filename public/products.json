@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "name": "HP Laptop",
+      "category": "Electronics",
+      "price": 45000,
+      "rating": 4.5,
+      "image": "images/hp.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Bag",
+      "category": "Fashion",
+      "price": 500,
+      "rating": 4.0,
+      "image": "images/laptopbag.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hitach Smart TV",
+      "category": "Electronics",
+      "price": 40000,
+      "rating": 4.8,
+      "image": "images/hitachi-led-smart-tv-screen.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Puma Shoes",
+      "category": "Fashion",
+      "price": 3500,
+      "rating": 3.5,
+      "image": "images/puma.webp"
+    },
+
+    {
+        "id": 5,
+        "name": "Puma Shirts",
+        "category": "Fashion",
+        "price": 3500,
+        "rating": 3.5,
+        "image": "images/shirt.png"
+      },
+      {
+        "id": 6,
+        "name": "Red Mi",
+        "category": "Electronics",
+        "price": 9000,
+        "rating": 4.8,
+        "image": "images/redmi-note-12.webp"
+      },
+      {
+        "id": 7,
+        "name": "Samsung AC",
+        "category": "Electronics",
+        "price": 39000,
+        "rating": 4.8,
+        "image": "images/ac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Beats Headphones",
+        "category": "Electronics",
+        "price": 3000,
+        "rating": 4.8,
+        "image": "images/beats.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Canon",
+        "category": "Electronics",
+        "price": 49000,
+        "rating": 4.8,
+        "image": "images/canon.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Fast Track",
+        "category": "Electronics",
+        "price": 1500,
+        "rating": 4.8,
+        "image": "images/fasttrack.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Marshall Radio",
+        "category": "Electronics",
+        "price": 30000,
+        "rating": 4.8,
+        "image": "images/marshall.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Mi Powerbank",
+        "category": "Electronics",
+        "price": 3200,
+        "rating": 4,
+        "image": "images/powerbank.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Shirt",
+        "category": "Fashion",
+        "price": 500,
+        "rating": 4.0,
+        "image": "images/shirt2.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Shirt",
+        "category": "Fashion",
+        "price": 800,
+        "rating": 4.0,
+        "image": "images/shirt3.jpg"
+      },
+      {
+        "id": 15,
+        "name": "Hoodie",
+        "category": "Fashion",
+        "price": 1500,
+        "rating": 4.0,
+        "image": "images/hoodie1.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Hoodie",
+        "category": "Fashion",
+        "price": 2500,
+        "rating": 4.0,
+        "image": "images/hoodie2.jpg"
+      }
+
+  ]
